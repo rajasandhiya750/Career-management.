@@ -1,0 +1,1 @@
+<p>Recruiters: <a href="clogin.php">Log in</a> or <a href="registration.php">Register</a></p>		
